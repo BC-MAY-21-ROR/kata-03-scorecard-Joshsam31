@@ -8,21 +8,21 @@ sidebar:
 
   # Profile information
   name: Josue Esau Samano Alcaraz # Nombre completo
-  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: Ruby on Rails web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
   email: samano82324@gmail.com
   phone: 3121963628
-  website: www.facebook.com/josue.esau.3939/
-  linkedin: ""
+  website: # No agregar http://
+  linkedin: 
   github: Joshsam31
-  gitlab: ""
-  bitbucket: ""
-  twitter: ""
-  stack-overflow: ""
+  gitlab:
+  bitbucket:
+  twitter: '@BrightCoders'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
-  goodreads: ""
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -32,11 +32,9 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+     - item: Communication
       link: # dejar en blanco
 
     - item: Team Work
@@ -79,8 +77,6 @@ educationcomplete:
     university: Instituto Tecnologico de Colima
     time: 2019 Oct - current
     details: |
-
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: BrightCoder
@@ -90,9 +86,6 @@ experiences:
       As a brightcoder i've learned a lot of things like a algorithms and refactor of code with ruby,
       i also learned about web development with Ruby on Rails
       Using agile methodologies such as scrum.
-      
-
-
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -103,32 +96,23 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Java
-      level: 40%
-
-    - name: Ruby
+    - name: Python
       level: 20%
 
-    - name: JavaScript
-      level: 40%
+    - name: PyTorch
+      level: 20%
 
-    - name: HTML
-      level: 60%
+    - name: Tensorflow
+      level: 20%
+
+    - name: Caffe
+      level: 20%
 
     - name: Matlab
       level: 20%
 
-    - name: CSS
+    - name: C/C++
       level: 40%
-
-    - name: SQL
-    - level: 40%
-
-    - name: Linux
-    - level: 20%
-
-    - name: Git
-    - level: 20%
 
 # NO MODIFICAR
 footer: >
